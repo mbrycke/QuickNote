@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuickNote2</string>
+    <string name="action_settings">Settings yeah!</string>
+    <string name="button_send_text">Send note</string>
+
+    <string name="pref_sms_storage_title">Storage title</string>
+    <string name="pref_summary_auto_delete">auto delete</string>
+    <string name="pref_title_auto_delete">title auto delete</string>
+    <string name="pref_summary_delete_limit">delete limit</string>
+    <string name="pref_title_sms_delete">title sms delete</string>
+    <string name="pref_title_mms_delete">title mms delete</string>
+</resources>
